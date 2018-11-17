@@ -3,3 +3,4 @@
 vue 的组件开发 还是有些bug    
 先 git pull origin master
 在 git push -u origin master
+https://github.com/xiaoyikeji/shop-vue/blob/master/src/common/shouYe/1.png
