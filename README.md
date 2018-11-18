@@ -2,3 +2,5 @@
 （（"dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js --host 192.168.31.148", ））自己修改登录--------- 
 192.168.31.148 开头
 ![image](https://github.com/xiaoyikeji/-js/blob/master/1.png)
+![image](https://github.com/xiaoyikeji/-js/blob/master/2.png)
+![image](https://github.com/xiaoyikeji/-js/blob/master/3.png)
